@@ -1,0 +1,447 @@
+{
+  "works": [
+    {
+      "id": "1",
+      "code": "A57",
+      "title": "A57 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-01.jpg"
+    },
+    {
+      "id": "2",
+      "code": "AIR 204",
+      "title": "AIR 204 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-02.jpg"
+    },
+    {
+      "id": "3",
+      "code": "AIR 206",
+      "title": "AIR 206 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-03.jpg"
+    },
+    {
+      "id": "4",
+      "code": "AISTAR",
+      "title": "AISTAR 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-04.jpg"
+    },
+    {
+      "id": "5",
+      "code": "LC114",
+      "title": "LC114 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-05.jpg"
+    },
+    {
+      "id": "6",
+      "code": "LC542",
+      "title": "LC542 葡萄牙语详情",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-06.jpg"
+    },
+    {
+      "id": "7",
+      "code": "LC557",
+      "title": "LC557 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-07.jpg"
+    },
+    {
+      "id": "8",
+      "code": "LC567",
+      "title": "LC567 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-08.jpg"
+    },
+    {
+      "id": "9",
+      "code": "LC568",
+      "title": "LC568 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-09.jpg"
+    },
+    {
+      "id": "10",
+      "code": "LC570",
+      "title": "LC570 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-10.jpg"
+    },
+    {
+      "id": "11",
+      "code": "LCH025&027",
+      "title": "LCH025&027 UK 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-11.jpg"
+    },
+    {
+      "id": "12",
+      "code": "LCH32",
+      "title": "LCH32 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-12.jpg"
+    },
+    {
+      "id": "13",
+      "code": "LCH96",
+      "title": "LCH96 EU 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-13.jpg"
+    },
+    {
+      "id": "14",
+      "code": "LCV201",
+      "title": "LCV201 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-14.jpg"
+    },
+    {
+      "id": "15",
+      "code": "LHF24",
+      "title": "LHF24 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-15.jpg"
+    },
+    {
+      "id": "16",
+      "code": "LM206",
+      "title": "LM206 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-16.jpg"
+    },
+    {
+      "id": "17",
+      "code": "LPC204",
+      "title": "LPC204 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-17.jpg"
+    },
+    {
+      "id": "18",
+      "code": "LPH131",
+      "title": "LPH131 葡语电脑详情",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-18.jpg"
+    },
+    {
+      "id": "19",
+      "code": "NEAX",
+      "title": "NEAX 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-19.jpg"
+    },
+    {
+      "id": "20",
+      "code": "PW327",
+      "title": "PW327 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-20.jpg"
+    },
+    {
+      "id": "21",
+      "code": "S236",
+      "title": "S236 常规详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-21.jpg"
+    },
+    {
+      "id": "22",
+      "code": "VIGOR",
+      "title": "VIGOR 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-22.jpg"
+    },
+    {
+      "id": "23",
+      "code": "WK113",
+      "title": "WK113 详情页",
+      "category": "Product Detail",
+      "imageUrl": "./images/long-23.jpg"
+    }
+  ],
+  "brandWorks": [
+    {
+      "id": "1",
+      "title": "NOVA 说明书",
+      "category": "packaging",
+      "categoryLabel": "包装设计",
+      "imageUrl": "./images/cover-01.jpg"
+    },
+    {
+      "id": "2",
+      "title": "ORBIS 展架",
+      "category": "display",
+      "categoryLabel": "展架设计",
+      "imageUrl": "./images/cover-02.jpg"
+    },
+    {
+      "id": "3",
+      "title": "PX1 2 380D",
+      "category": "packaging",
+      "categoryLabel": "包装设计",
+      "imageUrl": "./images/cover-03.jpg"
+    },
+    {
+      "id": "4",
+      "title": "WS104 封面",
+      "category": "packaging",
+      "categoryLabel": "包装设计",
+      "imageUrl": "./images/cover-04.jpg"
+    },
+    {
+      "id": "5",
+      "title": "一代防原镜头膜展架",
+      "category": "display",
+      "categoryLabel": "展架设计",
+      "imageUrl": "./images/cover-05.jpg"
+    },
+    {
+      "id": "6",
+      "title": "场景 211.494",
+      "category": "scene",
+      "categoryLabel": "场景图",
+      "imageUrl": "./images/cover-06.jpg"
+    },
+    {
+      "id": "7",
+      "title": "场景 89.927",
+      "category": "scene",
+      "categoryLabel": "场景图",
+      "imageUrl": "./images/cover-07.jpg"
+    },
+    {
+      "id": "8",
+      "title": "资源 15",
+      "category": "other",
+      "categoryLabel": "视觉物料",
+      "imageUrl": "./images/cover-08.jpg"
+    },
+    {
+      "id": "9",
+      "title": "资源 20",
+      "category": "other",
+      "categoryLabel": "视觉物料",
+      "imageUrl": "./images/cover-09.jpg"
+    },
+    {
+      "id": "10",
+      "title": "CK234 展架",
+      "category": "display",
+      "categoryLabel": "展架设计",
+      "imageUrl": "./images/cover-10.jpg"
+    },
+    {
+      "id": "11",
+      "title": "CK235 展架",
+      "category": "display",
+      "categoryLabel": "展架设计",
+      "imageUrl": "./images/cover-11.jpg"
+    },
+    {
+      "id": "12",
+      "title": "LB717 包装",
+      "category": "packaging",
+      "categoryLabel": "包装设计",
+      "imageUrl": "./images/cover-12.jpg"
+    },
+    {
+      "id": "13",
+      "title": "LB731 包装",
+      "category": "packaging",
+      "categoryLabel": "包装设计",
+      "imageUrl": "./images/cover-13.jpg"
+    },
+    {
+      "id": "14",
+      "title": "LH60 展架",
+      "category": "display",
+      "categoryLabel": "展架设计",
+      "imageUrl": "./images/cover-14.jpg"
+    },
+    {
+      "id": "15",
+      "title": "LP31 信封包装",
+      "category": "packaging",
+      "categoryLabel": "包装设计",
+      "imageUrl": "./images/cover-15.jpg"
+    },
+    {
+      "id": "16",
+      "title": "LW218",
+      "category": "packaging",
+      "categoryLabel": "包装设计",
+      "imageUrl": "./images/cover-16.jpg"
+    },
+    {
+      "id": "17",
+      "title": "NEXA 展架",
+      "category": "display",
+      "categoryLabel": "展架设计",
+      "imageUrl": "./images/cover-17.jpg"
+    },
+    {
+      "id": "18",
+      "title": "手机壳设计 A",
+      "category": "pattern",
+      "categoryLabel": "图案设计",
+      "imageUrl": "./images/cover-18.jpg"
+    },
+    {
+      "id": "19",
+      "title": "手机壳设计 B",
+      "category": "pattern",
+      "categoryLabel": "图案设计",
+      "imageUrl": "./images/cover-19.jpg"
+    },
+    {
+      "id": "20",
+      "title": "手机壳丝印设计",
+      "category": "pattern",
+      "categoryLabel": "图案设计",
+      "imageUrl": "./images/cover-20.jpg"
+    },
+    {
+      "id": "21",
+      "title": "手机场景图",
+      "category": "scene",
+      "categoryLabel": "场景图",
+      "imageUrl": "./images/cover-21.jpg"
+    },
+    {
+      "id": "22",
+      "title": "包包设计",
+      "category": "pattern",
+      "categoryLabel": "图案设计",
+      "imageUrl": "./images/cover-22.jpg"
+    },
+    {
+      "id": "23",
+      "title": "AIR 60 亚马逊主图",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-23.jpg"
+    },
+    {
+      "id": "24",
+      "title": "产品展示 02",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-24.jpg"
+    },
+    {
+      "id": "25",
+      "title": "产品展示 123",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-25.jpg"
+    },
+    {
+      "id": "26",
+      "title": "产品展示 17-1.447",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-26.jpg"
+    },
+    {
+      "id": "27",
+      "title": "产品展示 1",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-27.jpg"
+    },
+    {
+      "id": "28",
+      "title": "产品展示 2.586",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-28.jpg"
+    },
+    {
+      "id": "29",
+      "title": "产品展示 A1",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-29.jpg"
+    },
+    {
+      "id": "30",
+      "title": "产品展示 A2",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-30.jpg"
+    },
+    {
+      "id": "31",
+      "title": "产品展示 A",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-31.jpg"
+    },
+    {
+      "id": "32",
+      "title": "产品展示 B1",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-32.jpg"
+    },
+    {
+      "id": "33",
+      "title": "产品展示 B2",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-33.jpg"
+    },
+    {
+      "id": "34",
+      "title": "产品展示 B",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-34.jpg"
+    },
+    {
+      "id": "35",
+      "title": "产品展示 C2",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-35.jpg"
+    },
+    {
+      "id": "36",
+      "title": "产品展示 ks.495",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-36.jpg"
+    },
+    {
+      "id": "37",
+      "title": "LM206 缩略集合图",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-37.jpg"
+    },
+    {
+      "id": "38",
+      "title": "NOVA 主图 1",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-38.jpg"
+    },
+    {
+      "id": "39",
+      "title": "NOVA 主图 2",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-39.jpg"
+    },
+    {
+      "id": "40",
+      "title": "NOVA 主图 3",
+      "category": "main-image",
+      "categoryLabel": "主图设计",
+      "imageUrl": "./images/cover-40.jpg"
+    }
+  ]
+}
